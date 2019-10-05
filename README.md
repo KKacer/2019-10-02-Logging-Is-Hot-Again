@@ -1,4 +1,5 @@
-![Logging is hot again!](https://github.com/Munich-NET-Meetup/2019-10-02-Logging-Is-Hot-Again/feature_image.png)
+![Logging is hot again!](https://github.com/Munich-NET-Meetup/2019-10-02-Logging-Is-Hot-Again/blob/master/feature_image.png)
+
 If you think logging is boring, stop yawning and think again!
 ---------------------------------------------------------------
 
